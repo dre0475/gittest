@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("我是dev分支");
         System.out.println("xxxxxxxxx");
         System.out.println("yyyyyyyyyyy");
+        System.out.println("AAAAAAAAAAA");
     }
 }
